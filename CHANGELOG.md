@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-08)
+## Unreleased (2026-05-10)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`ddc2020`](https://github.com/stdlib-js/stdlib/commit/ddc2020894f672547e4101425bf5f609dcabf634) - **chore:** modernize examples and benchmarks _(by Athan Reines)_
 -   [`0682ac1`](https://github.com/stdlib-js/stdlib/commit/0682ac10d0ad67b46453f186b3577901886fa42c) - **feat:** add C implementation for `stats/base/ndarray/dmean` [(#10052)](https://github.com/stdlib-js/stdlib/pull/10052) _(by Kaustubh Patange, Athan Reines, Sachin Pangal)_
 
 </details>
